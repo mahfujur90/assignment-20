@@ -1,0 +1,17 @@
+.scrole-ex{
+    overflow: scroll;
+    height: 200px;
+   
+}
+.margin1{
+    margin-left: 253px;
+}
+.margin2{
+    margin-left: 225px;
+}
+.footer{
+    background-color:#4397c5 ;
+    color: #fff;
+    padding: 20px;
+    text-transform: capitalize;
+}
